@@ -19,16 +19,130 @@ I'm [Luka](https://github.com/lukabergs/), a software developer based in [Bilbao
 
 Here are some of my school projects:
 
-|Grado en Inteligencia Artificial|
-|--------------|
-|[PB - Programación Básica](https://github.com/stars/lukabergs/lists/ia-pb)|
-
-|Grado Superior en Desarrollo de Aplicaciones Multiplataforma|
-|--------------|
-|[PROG - Programación](https://github.com/stars/lukabergs/lists/damdaw-prog)|
-|[LMSGI - Lenguajes de Marcas y Sistemas de Gestión de la Información](https://github.com/stars/lukabergs/lists/damdaw-lmsgi)|
-|[ED - Entornos de Desarrollo](https://github.com/stars/lukabergs/lists/damdaw-ed)|
-|[AD - Acceso a Datos](https://github.com/stars/lukabergs/lists/dam-ad)|
+<div align="center">
+  <table>
+    <tr>
+        <th colspan="3">Grado en Inteligencia Artificial</th>
+    </tr>
+    <tr>
+        <td rowspan="13"><a href="https://github.com/stars/lukabergs/lists/ia-pb">PB - Programación Básica</a></td>
+        <td>Lab01</td>
+        <td/>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab02">Lab02</a></td>
+        <td>Programas y subprogramas con instrucciones sencillas</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab03">Lab03</a></td>
+        <td>Instrucciones condicionales e iterativas</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab04">Lab04</a></td>
+        <td>Instrucciones iterativas y tratamiento de secuencias</td>
+    </tr>
+    <tr>
+        <td>Lab05</td>
+        <td/>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab06">Lab06</a></td>
+        <td>Vectores</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab07">Lab07</a></td>
+        <td>Vectores y Matrices</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab08">Lab08</a></td>
+        <td>Matrices, registros y Listas estáticas</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab09">Lab09</a></td>
+        <td>Listas estáticas, Matrices y Tipos mixtos</td>
+    </tr>
+    <tr>
+        <td>Lab10</td>
+        <td/>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab11">Lab11</a></td>
+        <td>Apuntadores y Listas dinámicas - Básico</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab12">Lab12</a></td>
+        <td>Apuntadores y Listas dinámicas - Avanzado</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lukabergs/ia-pb-lab13">Lab13</a></td>
+        <td>Práctica - Juego imagen escondida</td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th colspan="4">Grado Superior en Desarrollo de Aplicaciones Multiplataforma</th>
+    </tr>
+    <tr>
+      <td rowspan="12"><a href="https://github.com/stars/lukabergs/lists/damdaw-prog">PROG - Programación</a></td>
+      <td rowspan="2">UD01</td>
+      <td>PROG01TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>PROG01TE02</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD02</td>
+      <td>PROG02TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td rowspan="2">UD03</td>
+      <td>PROG03TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>PROG03TE02</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD04</td>
+      <td>PROG04TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD05</td>
+      <td>PROG05TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD06</td>
+      <td>PROG06TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD07</td>
+      <td>PROG07TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD08</td>
+      <td>PROG08TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD09</td>
+      <td>PROG09TE01</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>UD10</td>
+      <td>PROG10TE01</td>
+      <td/>
+    </tr>
+  </table>
+</div>
 
 ## Let's Connect
 
